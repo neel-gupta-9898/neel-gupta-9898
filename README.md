@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @neelgupta123
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, javascript and css
+- 🌱 I’m currently learning javascript
+- 🌱 I know html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me guptaneelhome@gmail.com
 
