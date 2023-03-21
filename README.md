@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 🌱 I know html and css
 - 📫 Can reach me by [My Mail](guptaneelhome@gmail.com)
-- Social Profiles iN GitHub Profile
+- Social Profiles in GitHub Profile
 
 <!---
 neelgupta123/neelgupta123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
