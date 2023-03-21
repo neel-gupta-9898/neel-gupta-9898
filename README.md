@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 🌱 I know html and css
-- 📫 Can reach me by [My Mail](guptaneelhome@gmail.com)
+- 📫 Can reach me by [My Mail](mailto:guptaneelhome@gmail.com)
 - Social Profiles in GitHub Profile
 
 <!---
