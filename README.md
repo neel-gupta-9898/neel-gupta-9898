@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 🌱 I know html and css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me guptaneelhome@gmail.com
+- 📫 How to reach me [My Mail](guptaneelhome@gmail.com)
 
 <!---
 neelgupta123/neelgupta123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
