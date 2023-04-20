@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neelgupta123
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 🌱 I know html and css
+- 🌱 I’m currently learning Javascript, Node.js, React.js  
+- 🌱 I know HTML, CSS, Bootstrap 5,  Basics   of JS, Python, C#, C, C++
 - 📫 Can reach me by [My Mail](mailto:guptaneelhome@gmail.com)
 - Social Profiles in GitHub Profile
 - Website under Development 😅😅
