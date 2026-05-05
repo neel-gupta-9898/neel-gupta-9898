@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @neelgupta123
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React.js, Nextjs.
-- Check this thing out, [Vayl]([https://vayl.in](https://vayl.in/?utm_source=github&utm_medium=referral&utm_campaign=main_brand&utm_content=social_profile)).
+- Check this thing out, [Vayl](https://vayl.in/?utm_source=github&utm_medium=referral&utm_campaign=main_brand&utm_content=social_profile).
 - 🌱 I know HTML, CSS, Bootstrap 5, JS, Tailwind and currently learning Python, C#.
 - 📫 Can reach me by [My Mail](mailto:neelgupta30@zohomail.in)
 - [Website](https://neelnext.vercel.app) under Development 😅😅
